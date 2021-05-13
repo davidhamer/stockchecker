@@ -20,4 +20,4 @@ async def on_message(message):
             embed = discord.Embed(title=(botName + " Stock Check"), description="Please react with the number of copies you are holding.")
             await message.channel.send(embed=embed)
 
-client.run("ODQxNjY2NzY0ODY5NzMwMzA2.YJqFQg.aSqHtn6zBsAq7RmaEvXSF9gKGZk")
+client.run("KEY")
